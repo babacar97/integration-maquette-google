@@ -1,0 +1,127 @@
+header ul {
+    list-style-type: none;
+    text-align: right;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  header ul li{
+    display: inline;
+    margin:0 0 0 5px;
+  }
+  .img-top{
+    position: relative;
+    top: -8px;
+  }
+  .text-top{
+    position: relative;
+    top: -17px;
+    left: -16px;
+    margin:0 0 0 5px;
+  }
+  .google{
+    position: relative;
+    left: 600px;
+    top: 60px;
+  }
+.bordur{
+  border: 0.1px solid #9aa0a6;
+  margin-left:500px ;
+  margin-right:500px ;
+  position: relative;
+  top: 70px;
+  height: 50px;
+  border-radius: 20px;
+}
+.recherche{
+  position: relative;
+  left: 15px;
+  top: 10px;
+}
+.vocal{
+  position: relative;
+  left: 500px;
+  top: 10px;
+}
+p{
+  position: relative;
+  top: 40px;
+  font-family: arial, sans-serif;
+  color: #3c4043;
+  display: inline-block;
+  left: 650px;
+}
+.chance{
+  position: relative;
+  left:690px; 
+}
+.bordure1{
+  border: 0.5px solid #f8f9fa;
+  position: relative;
+  height: 30px;
+  margin-left: 640px;
+  margin-right: 795px;
+  top: 110px;
+  background-color: #f8f9fa;
+}
+.bordure2{
+  border: 0.5px solid #f8f9fa;
+  position: relative;
+  height: 30px;
+  margin-left: 820px;
+  margin-right: 610px;
+  top: 80px;
+  background-color: #f8f9fa;
+}
+aside{
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+.lien{
+  color: #1a0dab;
+}
+footer ul li{
+  list-style-type: none;
+  text-align: right;
+  display: inline;  
+}
+footer {
+  position: relative;
+  top: 290px;
+  word-spacing: 30px;
+}
+.lien-2{
+  position: relative;
+  left: 600px;
+}
+.senegal{
+  margin-right: 200px;
+  margin-left: 40px;
+position: relative;
+top: 20px;
+}
+.bordure3{
+  border: 1px solid #f8f9fa;
+  position: relative;
+  height: 45px;
+  width: 100%;
+  top: -45px;
+  color: #000000;
+   opacity :54.0%;
+  background-color: #f2f2f2;
+}
+.bordure4{
+  border: 1px solid #f8f9fa;
+  position: relative;
+  height: 45px;
+  width: 100%;
+  top: -48px;
+  color: #000000;
+   opacity :54.0%;
+  background-color: #f2f2f2;
+}
+body {
+   overflow-y: hidden; 
+}
